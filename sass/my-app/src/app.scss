@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+
+$brand_primary: #66cc33;
+$brand_seconday: #cc8533;
+
+h1{
+  color: $brand_primary;
+}
+
+
+h3{
+    color: $brand_seconday;
+}
